@@ -1,0 +1,4 @@
+web 	= https://app.chat-api.com/login
+API 	= Your API URL https://eu84.chat-api.com/instance93843/ and token jll8s0quucsaxngg
+email	= testapigeratisan001@gmail.com
+pass 	= yX9t82ZZngcfAC5
